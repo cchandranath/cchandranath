@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F70000&width=450&lines=Code+so+beautiful%2C+you'll+frame+it+on+your+wall.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=F70000&width=450&lines=Code+so+beautiful%2C+you'll+frame+it+on+your+wall.)](https://git.io/typing-svg)
 
 <!--
 **cchandranath/cchandranath** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
